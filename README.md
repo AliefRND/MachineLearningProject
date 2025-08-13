@@ -1,7 +1,7 @@
 <h1> Hotel Booking Cancellation Prediction </h1>
 
 ## 1. Project Overview
-This project analyzes hotel booking data to build a classification model that predicts the likelihood of a booking being canceled. The goal is to help the Reservations & Revenue Management team proactively manage cancellation risk reducing vacant rooms and optimizing occupancy—via timely actions (follow‑ups, incentives, or calibrated overbooking).
+This project analyzes hotel booking data to build a classification model that predicts the likelihood of a booking being canceled. The goal is to help the Reservations & Revenue Management team proactively manage cancellation risk reducing vacant rooms and optimizing occupancy via timely actions (follow‑ups, incentives, or calibrated overbooking).
 
 **Core Problem:**  
 The hotel experiences a high volume of booking cancellations, with roughly 37% of confirmed bookings cancelled in the past year.
